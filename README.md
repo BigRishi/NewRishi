@@ -1,3 +1,3 @@
 # NewRishi
 development step1<br/>
-this is me
+this is me ok
